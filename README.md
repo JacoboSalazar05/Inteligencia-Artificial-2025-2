@@ -13,5 +13,6 @@ Ingeniería Industrial presencial
 ### Integrante 3
 Valentina Naranjo Ríos
 CC. 1000414623
+Valentina.naranjor@udea.edu.co
 Ingeniería Industrial presencial 
 
