@@ -10,3 +10,8 @@ Maria Isabel Sánchez Castañeda
 CC. 1000899428
 Isabel.sanchez2@udea.edu.co
 Ingeniería Industrial presencial 
+### Integrante 3
+Valentina Naranjo Ríos
+CC. 1000414623
+Ingeniería Industrial presencial 
+
