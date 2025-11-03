@@ -15,4 +15,6 @@ Valentina Naranjo Ríos
 CC. 1000414623
 Valentina.naranjor@udea.edu.co
 Ingeniería Industrial presencial 
+### Link Video Entrega #2
+https://youtu.be/m3UP-dWZANs
 
