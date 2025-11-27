@@ -17,4 +17,6 @@ Valentina.naranjor@udea.edu.co
 Ingeniería Industrial presencial 
 ### Link Video Entrega #2
 https://youtu.be/m3UP-dWZANs
+### Link Video Entrega #3
+https://youtu.be/bsYx2YsHrGg
 
